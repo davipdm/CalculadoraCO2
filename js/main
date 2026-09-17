@@ -1,0 +1,3 @@
+git checkout -b main
+git commit --allow-empty -m "Inicializando main"
+git push origin main
